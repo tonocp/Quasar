@@ -1,0 +1,17 @@
+{
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
+
+  "vetur.experimental.templateInterpolationService": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 120,
+  "html.completion.attributeDefaultValue": "singlequotes",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "vetur.completion.tagCasing": "initial",
+  "vetur.format.enable": false,
+  "vetur.format.scriptInitialIndent": true,
+  "vetur.format.options.useTabs": true,
+  "vetur.format.styleInitialIndent": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
